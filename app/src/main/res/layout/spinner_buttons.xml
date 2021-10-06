@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:id="@+id/display"
+    android:textSize="15dp"
+    android:textAlignment="center"
+    android:textColor="#733E50"
+    android:gravity="center"
+    android:layout_marginTop="3dp"
+    android:backgroundTint="@color/purple_200"
+    android:backgroundTintMode="screen"
+
+    />

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/camera.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/chat.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/explore.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/home.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/notify.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/profile.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/round_imagebutton.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/drawable/round_spinner.xml" value="0.2890625" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/layout/postrecycle_items.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/layout/scrollview_items.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/UT/AndroidStudioProjects/Project/app/src/main/res/layout/spinner_buttons.xml" value="0.26856884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
